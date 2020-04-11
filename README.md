@@ -17,7 +17,7 @@ $data=[
     ['Paul',12],
     ['Hippolyte ',3]
 ];
-$table=QTable::instance(
+$table=QTable::create(
     ['name','age'],
     $data,
     ['border'=>1]
