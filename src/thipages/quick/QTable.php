@@ -27,7 +27,7 @@ class QTable {
     public function getHTML() {
         return $this->html;
     }
-    public static function instance($headers, $cells, $tableAttributes=[]) {
+    public static function create($headers, $cells, $tableAttributes=[]) {
         return (new self($headers,$cells, $tableAttributes))->getHtml();
     }
 }

@@ -5,9 +5,9 @@ Quick Html Table builder
 **composer** require thipages\quicktable
 
 ### Usage of QTable class
-through the static method instance
+through the static method create
 ```php
-    instance($headers,$cells,tableAttributes=[]);
+    create($headers,$cells,tableAttributes=[]);
 ```
 
 #### Example
