@@ -1,0 +1,21 @@
+{
+  "name": "thipages/quicktable",
+  "version": "v0.1.0",
+  "description": "Quick html table builder",
+  "type": "library",
+  "keywords" : ["html","table","quick"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thierry PAGES",
+      "email": "thipages@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-0": {"thipages\\quick\\": "src/"}
+  },
+  "require": {
+    "thipages/quicktag": "*"
+  }
+}
