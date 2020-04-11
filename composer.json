@@ -1,6 +1,6 @@
 {
   "name": "thipages/quicktable",
-  "version": "v0.2.1",
+  "version": "v0.3.0",
   "description": "Quick html table builder",
   "type": "library",
   "keywords" : ["html","table","quick"],

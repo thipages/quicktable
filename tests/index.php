@@ -1,6 +1,6 @@
 <?php
 include('../vendor/autoload.php');
-include('../src/thipages/quick/QTable.php');
+use thipages\quick\QTable;
 $data=[
     ['Lucien',23],
     ['Paul',12],

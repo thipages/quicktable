@@ -1,7 +1,6 @@
 <?php
-use thipages\quick\QTag;
+namespace thipages\quick;
 class QTable {
-    
     private $html;
     public function __construct($headers, $cells, $tableAttributes=[]) {
         $html_header=[];
