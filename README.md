@@ -2,7 +2,7 @@
 Quick Html Table builder
 
 ### Installation
-**composer** require thipages\quicktag
+**composer** require thipages\quicktable
 
 ### Usage of QTable class
 through the static method instance
