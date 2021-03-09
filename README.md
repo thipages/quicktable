@@ -1,4 +1,4 @@
-# quicktag
+# quicktable
 Quick Html Table builder
 
 ### Installation
